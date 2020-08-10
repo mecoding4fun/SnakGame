@@ -1,2 +1,1 @@
-# Snake Game
-## Hello!
+# snake game
